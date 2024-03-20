@@ -10,7 +10,7 @@
 
 💞️ I’m looking to collaborate on ... I really dont know YET! Let's talk about, if something show up.
 
-📫 How to reach me: <a href="https://linktr.ee/mordonha">LINKTR.EE </a> || <a href="mailto:marcos.ordonha@gmail.com">MAIL-ME</a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/paulo-marcos-ordonha/">LINKEDIN </a> || <a href="mailto:marcos.ordonha@gmail.com">MAIL-ME</a>
 
 <!---
 mordonha/mordonha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
