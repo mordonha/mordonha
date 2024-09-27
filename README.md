@@ -4,9 +4,9 @@
 
 ...Ops, and techinical skills on programming (soft skills come together, of course)!
 
-🌱 I’m currently learning CSS (and framworks); HTML (too much tags, too much news); JavaScript (vanilla and family REACT, NODE, NEXT).
+🌱 I’m currently learning python (numpy, panda, and data science stuff) and JavaScript (vanilla and REACT, NODE, NEXT family).
 
-👨🏾‍💻 Working with tagging, tracking, data collection and analysis of digital marketing around web and app 
+👨🏾‍💻 Working with tagging, tracking, data collection and analysis of digital products over web and app.
 
 💞️ I’m looking to collaborate on ... I really dont know YET! Let's talk about, if something show up.
 
