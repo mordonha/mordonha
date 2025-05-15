@@ -1,16 +1,17 @@
-👋 Hi, I’m <a href="https://linktr.ee/mordonha">@mordonha</a>
+👋 Hi, I’m Paulo Marcos Ordonha
 
-👀 I’m interested in movies, animes, comics/mangas, musics/soudtracks and a lot of about readings. Also, taking contemporary dance classes.
+👀 I’m passionate about movies, anime, comics/manga, music/soundtracks, and reading—all kinds of it. I’m also taking contemporary dance classes.
 
-...Ops, and techinical skills on programming (soft skills come together, of course)!
+...Oh, and of course, I have technical programming skills (and soft skills naturally come along)!
 
-🌱 I’m currently learning python (numpy, panda, and data science stuff) and JavaScript (vanilla and REACT, NODE, NEXT family).
+🌱 Currently, I’m learning Python (core concepts, testing, NumPy, Pandas, and data science fundamentals), JavaScript (vanilla, along with React and Node), and a bit of UX/UI design.
 
-👨🏾‍💻 Working with tagging, tracking, data collection and analysis of digital products over web and app.
+👨🏾‍💻 I work with tagging, tracking, data collection, and analysis of digital products across web and app platforms, including Google Tag Manager (Web & Server), Google Analytics 4, BigQuery, Looker, and Excel tricks.
 
-💞️ I’m looking to collaborate on ... I really dont know YET! Let's talk about, if something show up.
+💞️ I’m looking to collaborate on... well, I’m not sure yet! Let’s chat and see what opportunities arise.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/paulo-marcos-ordonha/">LINKEDIN </a> || <a href="mailto:marcos.ordonha@gmail.com">MAIL-ME</a>
+📫 How to reach me: <a href="mailto:marcos.ordonha@gmail.com">MAIL-ME</a>
+
 
 <!---
 mordonha/mordonha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
