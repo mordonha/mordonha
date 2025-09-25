@@ -1,6 +1,6 @@
 👋 Hi, I’m Paulo Marcos Ordonha
 
-👀 I’m passionate about movies, anime, comics/manga, music/soundtracks, and reading—all kinds of it. 
+👀 I’m passionate about movies, anime, comics/manga, music/soundtracks, and reading (all kinds of it). 
 I’m also taking contemporary dance classes.
 
 🌱 Currently, I’m learning Python (core concepts, testing, NumPy, Pandas, and data science fundamentals), JavaScript (vanilla, along with React and Node), and a bit of  design.
