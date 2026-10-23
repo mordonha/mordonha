@@ -15,7 +15,7 @@ Tenho forte vivência na manutenção e melhoria de camadas *gold* em Data Lakes
 
 🌱 **Interesses Pessoais**
 Fora dos terminais e notebooks, mantenho a disciplina através da dança contemporânea, do Ashtanga Yoga e musculação. 
-Também sou apaixonado por cinema, animes, quadrinhos, música e literatura.
+Também sou apaixonado e cresci através do cinema, animes, quadrinhos, música e literatura.
 
 📫 **Como me encontrar:**
 - 📧 E-mail: <a href="mailto:marcos.ordonha@gmail.com">marcos.ordonha@gmail.com</a>
