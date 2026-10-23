@@ -1,14 +1,25 @@
-👋 Hi, I’m Paulo Marcos Ordonha
+👋 Olá, eu sou o Paulo Marcos Ordonha
 
-👀 I’m passionate about movies, anime, comics/manga, music/soundtracks, and reading (all kinds of it). 
-I’m also taking contemporary dance classes.
+👨🏾‍💻 **Sobre mim**
+Sou profissional de dados com experiência sólida em Analytics Engineering, Data Analytics e Web Analytics. Atualmente, curso o Bacharelado em Ciência de Dados na UNIVESP, onde também atuo com iniciação cientifica no grupo GOMPU (Grupo Online Multidisciplinar de Pesquisa da UNIVESP).
 
-🌱 Currently, I’m learning Python (core concepts, testing, NumPy, Pandas, and data science fundamentals), JavaScript (vanilla, along with React and Node), and a bit of  design.
+🛠️ **O que eu faço**
+Minha atuação foca em transformar dados brutos em inteligência de negócios. 
+Tenho forte vivência na manutenção e melhoria de camadas *gold* em Data Lakes, orquestração de pipelines e implementação de tracking avançado para produtos digitais. Busco sempre otimizar processos analíticos integrando arquiteturas modulares e ferramentas de IA.
 
-👨🏾‍💻 I work with tagging, tracking, data collection, and analysis of digital products across web and app platforms, including Google Tag Manager (Web & Server), Google Analytics 4, BigQuery, Looker, and Excel tricks.
+💻 **Stack Tecnológico e Ferramentas**
+- **Linguagens:** SQL, Python, JavaScript
+- **Cloud & Data Engineering:** Google Cloud Platform (BigQuery, Cloud Run, Cloud Run Functions, Dataform, Terraform), Git/GitHub, IaC, DaC 
+- **Web Analytics & BI:** Google Analytics 4, Google Tag Manager (Web & Server), Looker Studio, Metabase, HubSpot, Funnel
+- **Inovação & IA:** Integração de LLMs e Model Context Protocol (MCP) em fluxos de trabalho de engenharia analítica e refatoração de código
 
-📫 How to reach me: <a href="mailto:marcos.ordonha@gmail.com">MAIL-ME</a>
+🌱 **Interesses Pessoais**
+Fora dos terminais e notebooks, mantenho a disciplina através da dança contemporânea, do Ashtanga Yoga e musculação. 
+Também sou apaixonado por cinema, animes, quadrinhos, música e literatura.
 
+📫 **Como me encontrar:**
+- 📧 E-mail: <a href="mailto:marcos.ordonha@gmail.com">marcos.ordonha@gmail.com</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI" target="_blank">Meu perfil no LinkedIn</a>
 
 <!---
 mordonha/mordonha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
