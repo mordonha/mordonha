@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/English-1A73E8?style=for-the-badge" alt="English"/></a>
+  <a href="README.pt.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-009739?style=for-the-badge" alt="Português"/></a>
+</p>
+
 <h1 align="center">Paulo Marcos Ordonha da Silva</h1>
 
 <p align="center">
